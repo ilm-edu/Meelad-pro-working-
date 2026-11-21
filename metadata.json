@@ -1,0 +1,6 @@
+{
+  "name": "Melad Fest Manager Pro",
+  "description": "Comprehensive Madrasa and Melad Fest management system with separate Boys and Girls points, student and program assignments, smart balanced result publishing manager, prelim shortlisting, and live display portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
